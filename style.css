@@ -21,20 +21,19 @@ main{
 }
 
 h1{
-  font-size: 5vh;
+  font-size: 4vh;
 
   color: red;
 }
 
-h3{ font-size: 2.5vh; }
-
 h2{
   margin-top: 4vh;
-  font-size: 5vh;
+  font-size: 4vh;
 
   color: dodgerblue;
 }
 
+h3{ font-size: 2.5vh; }
 h6{ font-size: 1.5vh; }
 
 a{
@@ -50,7 +49,7 @@ b{
   color: white;
 }
 
-#logo{ width: 40vh; }
+#logo{ width: 35vh; }
 #mail{
   width:3vh;
   border: 0.15vw solid dodgerblue;
